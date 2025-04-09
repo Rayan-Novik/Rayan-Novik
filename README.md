@@ -67,9 +67,9 @@
 
 ## 📬 Contato
 
-- 📧 **Email**: seu@email.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- 🖥️ **Portfólio**: [seusite.com](https://seusite.com)
+- 📧 **Email**: rayans.chaves.hotmailti@gmail.com  
+- 🌐 **LinkedIn**: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
+- 🖥️ **Portfólio**: [seusite.com](https://portfolio-rayan-s-chaves.netlify.app/)
 
 ---
 
