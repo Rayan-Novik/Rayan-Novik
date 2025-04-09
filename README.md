@@ -1,7 +1,7 @@
 <h1 align="center">🌐 Rayan Chaves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Especialista+em+Automação+e+Redes;Criador+de+Dashboards+Modernos;Entusiasta+de+Segurança+e+Infraestrutura" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Especialista+em+Redes%2C+Monitoramento+e+Automação;Frontend+e+Backend+com+Visual+Profissional" />
 </p>
 
 <div align="center">
@@ -12,44 +12,41 @@
   <a href="https://linkedin.com/in/seuperfil" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=GitHub&style=social" />
-  </a>
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎯 Sou um desenvolvedor full-stack com foco em performance, segurança e visual moderno.  
-🔧 Trabalho com **React.js**, **PHP**, **JavaScript**, **Bash**, redes e automações.  
-📡 Especializado em **monitoramento de redes LAN/WLAN**, integração com **pfSense** e exportação de dados em **PDF/Word**.  
-📱 Valorizo **interfaces responsivas**, **design com gradientes** e **experiência do usuário fluida**.  
+🎯 Desenvolvedor full-stack apaixonado por **monitoramento em tempo real**, **painéis web**, **UX/UI responsivo** e **infraestrutura de redes**.  
+🛠️ Experiência sólida em **React.js, PHP, Vue.js, APIs REST, MySQL, Firebase, MongoDB, Bootstrap, Tailwind, Apache** e mais.  
+🔒 Foco em **projetos escaláveis, performance otimizada, segurança e automação**.  
+📡 Especialista em **painéis administrativos**, **tráfego de rede**, **controle de máquinas e estoque**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 💼 Projetos em Destaque
+
+| 💡 Projeto | Tecnologias | Descrição |
+|-----------|-------------|-----------|
+| 🗨️ **Chat Multi-Atendimento** | Vue.js, PHP, API REST | Sistema de chat para suporte multiusuário com interface dinâmica e backend robusto |
+| 🛒 **E-commerce Moderno** | MongoDB, React.js, Tailwind, Firebase, JS, Apache | Loja online com autenticação, carrinho e integração em tempo real |
+| 🧰 **Painel de Gerenciamento - TI** | PHP, MySQL, JS, HTML, CSS, Bootstrap, API | Dashboard completo com monitoramento de rede, máquinas, estoque e controle de setor |
+
+---
+
+## 🛠️ Tecnologias que uso
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,php,js,bash,linux,mysql,bootstrap,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,php,js,bash,linux,mysql,mongodb,firebase,tailwind,bootstrap,html,css,apache" /><br>
 
 <img src="https://img.shields.io/badge/-pfSense-005BAC?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redes%20LAN%2FWLAN-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Automação-4EAA25?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Monitoramento-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Monitoramento+de+Rede-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-APIs+REST-4EAA25?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Automação-F97316?style=for-the-badge" />
 
 </div>
-
----
-
-## ⚡ Projetos Recentes
-
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| 💻 `trafegorede.php` | React, PHP, JS, Bootstrap | Painel em tempo real com IP público, consumo de rede LAN/WLAN, exportação e cache |
-| 🛠️ `Painel de Ramais` | PHP, HTML, CSS | Interface com gradientes, responsiva, com controle visual de ramais e status |
-| 📄 Exportador PDF/Word | PHP + TCPDF/DOMPDF | Sistema de geração de relatórios automáticos com dados de rede |
 
 ---
 
@@ -64,11 +61,11 @@
 
 ## ✨ Frase do dia
 
-> “Automatize tudo o que for repetitivo. Reduza o esforço. Aumente o impacto.” – *Rayan Chaves*
+> “Automatize o que puder, melhore o que for possível, e mantenha tudo sob controle.” – *Rayan Chaves*
 
 ---
 
-## 📬 Entre em contato
+## 📬 Contato
 
 - 📧 **Email**: seu@email.com  
 - 🌐 **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
@@ -76,4 +73,4 @@
 
 ---
 
-<!-- Atualize SEU_USUARIO, LinkedIn e email com seus dados reais -->
+<!-- Troque SEU_USUARIO, e-mail e LinkedIn pelos seus reais -->
