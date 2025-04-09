@@ -61,9 +61,9 @@
 
 ## 🐍 Snake Game dos Commits
 
-<div align="center">
-  ![Snake animation](https://github.com/Rayan-Novik/Rayan-Novik/blob/main/.github/workflows/snake.yml)
-</div>
+
+![Snake animation](https://github.com/Rayan-Novik/Rayan-Novik/blob/main/.github/workflows/snake.yml)
+
 
 ---
 
