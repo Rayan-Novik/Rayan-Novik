@@ -50,8 +50,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Rayan-Novik&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Novik&theme=tokyonight" />
 </div>
 
 ---
