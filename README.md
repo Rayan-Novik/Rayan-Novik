@@ -1,7 +1,7 @@
 <h1 align="center">Rayan Chaves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Especialista+em+Redes%2C+Monitoramento+e+Automação;Frontend+e+Backend+com+Visual+Profissional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack; Especialista+em+Redes%2C+Monitoramento+e+Automação; Frontend+e+Backend+com+Visual+Profissional" />
 </p>
 
 <div align="center">
