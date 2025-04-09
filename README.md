@@ -62,7 +62,7 @@
 ## 🐍 Snake Game dos Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rayan-Novik/Rayan-Novik/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  ![Snake animation](https://github.com/Rayan-Novik/Rayan-Novik/blob/main/.github/workflows/snake.yml)
 </div>
 
 ---
