@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Gera uma vez por dia
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   generate:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Geração da Snake
+      - name: Gerar animação da Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Rayan-Novik
@@ -24,7 +24,7 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "atualiza animação snake 🐍"
+          message: "Atualiza animação da Snake 🐍"
           add: "dist/github-contribution-grid-snake.svg"
 
       - name: Push para o branch atual
