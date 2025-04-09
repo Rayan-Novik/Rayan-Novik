@@ -79,4 +79,5 @@
 - 🌐 **LinkedIn**: [Rayan Chaves](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
 - 🖥️ **Portfólio**: [portfolio-rayan-s-chaves](https://portfolio-rayan-s-chaves.netlify.app/)
 
+![Snake animation](https://github.com/Rayan-Novik/Rayan-Novik/blob/output/github-contribution-grid-snake.svg)
 ---
