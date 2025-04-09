@@ -6,10 +6,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rayan-Novik&style=flat-square&color=blue" alt="visitors" />
-  <a href="rayans.chaves.hotmailti@gmail.com">
+  <a href="mailto:rayans.chaves.hotmailti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://linkedin.com/in/rayan-chaves" target="_blank">
+  <a href="https://linkedin.com/in/rayan-chaves-7b62a7269" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
 </div>
@@ -59,6 +59,14 @@
 
 ---
 
+## 🐍 Snake Game dos Commits
+
+<p align="center">
+  <img src="https://github.com/Rayan-Novik/Rayan-Novik/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## ✨ Frase do dia
 
 > “Automatize o que puder, melhore o que for possível, e mantenha tudo sob controle.” – *Rayan Chaves*
@@ -68,8 +76,7 @@
 ## 📬 Contato
 
 - 📧 **Email**: rayans.chaves.hotmailti@gmail.com  
-- 🌐 **LinkedIn**: [Rayan Chavesl](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
+- 🌐 **LinkedIn**: [Rayan Chaves](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
 - 🖥️ **Portfólio**: [portfolio-rayan-s-chaves](https://portfolio-rayan-s-chaves.netlify.app/)
 
 ---
-
