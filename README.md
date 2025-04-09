@@ -53,8 +53,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rayan-Novik&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rayan-Novik&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -68,9 +68,8 @@
 ## 📬 Contato
 
 - 📧 **Email**: rayans.chaves.hotmailti@gmail.com  
-- 🌐 **LinkedIn**: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
-- 🖥️ **Portfólio**: [seusite.com](https://portfolio-rayan-s-chaves.netlify.app/)
+- 🌐 **LinkedIn**: [Rayan Chavesl](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
+- 🖥️ **Portfólio**: [portfolio-rayan-s-chaves](https://portfolio-rayan-s-chaves.netlify.app/)
 
 ---
 
-<!-- Troque SEU_USUARIO, e-mail e LinkedIn pelos seus reais -->
