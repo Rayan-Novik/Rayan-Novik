@@ -59,16 +59,6 @@
 
 ---
 
-## 🐍 Snake Game dos Commits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rayan-Novik/Rayan-Novik/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-
-
----
-
 ## ✨ Frase do dia
 
 > “Automatize o que puder, melhore o que for possível, e mantenha tudo sob controle.” – *Rayan Chaves*
