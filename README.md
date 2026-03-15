@@ -1,7 +1,7 @@
 <h1 align="center">Rayan Chaves</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Especialista+em+SaaS+e+Automação;Infraestrutura+e+Monitoramento" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Criador+do+Ararinha+SaaS;Especialista+em+Automação+e+Deploy" />
 </p>
 
 <div align="center">
@@ -16,53 +16,36 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 O que eu construí recentemente
 
-🎯 Desenvolvedor full-stack focado em **soluções SaaS escaláveis**, **automação de infraestrutura** e **monitoramento em tempo real**.  
-🛠️ Experiência avançada em **Node.js, React (Vite), Prisma ORM, MySQL (Docker)** e arquiteturas distribuídas.  
-🔒 Especialista em criar **instaladores automatizados** e pipelines de deploy para sistemas complexos.  
-📡 Domínio em **redes, pfSense e segurança de servidores Linux**.
+Meu maior projeto atual é o **Ararinha SaaS**, um ecossistema completo de E-commerce Multi-tenant escalável. Eu desenvolvi desde a arquitetura do banco de dados até o script de auto-instalação para servidores Linux.
 
----
-
-## 🚀 Projeto em Destaque: Ararinha SaaS
-
-Este é o meu ecossistema mais recente, um sistema completo de e-commerce multi-tenant com automação total de deploy.
-
-| Repositório | Descrição | Stack Principal |
-|-----------|-------------|-----------|
-| 🛠️ [**Instalador**](https://github.com/Rayan-Novik/instalador) | Script Bash que configura Docker, Nginx, SSL e envs automaticamente. | Bash, Linux, Docker |
-| ⚙️ [**Backend API**](https://github.com/Rayan-Novik/backend) | API robusta com autenticação JWT e integração com meios de pagamento. | Node.js, Prisma, MySQL |
-| 💻 [**Painel Admin**](https://github.com/Rayan-Novik/admin) | Dashboard para gerenciamento de lojas, estoque e vendas. | React.js, Tailwind CSS |
-| 🛒 [**Loja Frontend**](https://github.com/Rayan-Novik/frontend) | Interface de loja rápida e otimizada para conversão. | React (Vite), TypeScript |
+### 🏗️ Ararinha SaaS - Arquitetura Completa
+* **[Instalador Automatizado](https://github.com/Rayan-Novik/instalador):** Desenvolvi um script Shell Bash que configura do zero uma VPS (Docker, Nginx, SSL, Envs e Banco de Dados) em poucos minutos.
+* **[Backend Core](https://github.com/Rayan-Novik/backend):** Construído com Node.js e Prisma ORM. Gerencia múltiplos lojistas (tenants), autenticação JWT e integração com gateways de pagamento.
+* **[Painel Admin](https://github.com/Rayan-Novik/admin):** Interface administrativa profissional em React.js para os lojistas gerenciarem produtos, estoque e vendas.
+* **[Frontend Storefront](https://github.com/Rayan-Novik/frontend):** Loja virtual ultra rápida desenvolvida com React + Vite e Tailwind CSS, focada em performance e UX.
 
 ---
 
-## 💼 Outros Projetos
+## 🛠️ No que eu sou especialista
 
-| 💡 Projeto | Tecnologias | Descrição |
-|-----------|-------------|-----------|
-| 🗨️ **Chat Multi-Atendimento** | Vue.js, PHP, API REST | Sistema de chat para suporte multiusuário com interface dinâmica. |
-| 🧰 **Painel TI - Gerenciamento** | PHP, MySQL, Bootstrap | Dashboard com monitoramento de rede, máquinas e controle de estoque. |
+* **Desenvolvimento Full-Stack:** Criação de APIs RESTful e interfaces modernas e responsivas.
+* **Infraestrutura como Código:** Automação de deploys e configuração de servidores Linux (Ubuntu/Debian).
+* **Segurança e Redes:** Implementação de regras de Firewall (pfSense), segurança de APIs e Cloudflare Zero Trust.
+* **Banco de Dados:** Modelagem e otimização de consultas em MySQL e MongoDB.
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 💻 Stack Tecnológica
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,ts,prisma,mysql,docker,bash,linux,nginx,php,tailwind,bootstrap,firebase" /><br>
-
-<img src="https://img.shields.io/badge/-pfSense-005BAC?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Infra_como_Código-4EAA25?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Monitoramento_Zabbix-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Cloudflare_Zero_Trust-F97316?style=for-the-badge" />
-
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,ts,prisma,mysql,docker,bash,linux,nginx,php,tailwind,bootstrap,firebase" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rayan-Novik&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -77,8 +60,7 @@ Este é o meu ecossistema mais recente, um sistema completo de e-commerce multi-
 
 ---
 
-## 📬 Contato
+## 📬 Vamos conversar?
 
-- 📧 **Email**: rayans.chaves.hotmailti@gmail.com  
-- 🌐 **LinkedIn**: [Rayan Chaves](https://www.linkedin.com/in/rayan-chaves-7b62a7269/)  
-- 🖥️ **Portfólio**: [portfolio-rayan-s-chaves](https://portfolio-rayan-s-chaves.netlify.app/)
+- 🖥️ **Meu Portfólio**: [portfolio-rayan-s-chaves](https://portfolio-rayan-s-chaves.netlify.app/)
+- 📧 **Contato Direto**: rayans.chaves.hotmailti@gmail.com
